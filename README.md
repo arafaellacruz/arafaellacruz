@@ -1,7 +1,7 @@
 ## Hey there! I'm Rafaella Cruz 
 
 
-<img align="right" width="350" height="350" src="https://github.com/rafaelq80/rafaelq80/blob/main/code.svg">
+<img align="right" width="300" height="300" src="https://github.com/rafaelq80/rafaelq80/blob/main/code.svg">
 
 
 <br>
