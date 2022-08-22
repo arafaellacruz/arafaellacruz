@@ -16,7 +16,7 @@
  <br>
  🇧🇷  I'm 23 years old, I live in Sao Jose dos Campos, Sao Paulo, Brazil.
  <br>
- 🖥️ I currently work at SumUp as a Software Engineer Jr. at Lending Squad.
+ 🖥️ I currently work at SumUp as a Software Engineer.
   
   
 <br>
