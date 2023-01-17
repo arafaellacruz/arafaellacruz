@@ -16,7 +16,7 @@
  <br>
  🇧🇷  I'm 23 years old, I live in Sao Jose dos Campos, Sao Paulo, Brazil.
  <br>
- 🖥️ I currently work at SumUp as a Software Engineer.
+ 🖥️ I currently I'm looking for a new job opportunity to improve my skills and help in the creation and maintain softwares. 
   
   
 <br>
