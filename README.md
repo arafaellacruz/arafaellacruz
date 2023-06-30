@@ -10,13 +10,13 @@
 <br>
 <br>
 
- 🌎 `<>Hello World!</>`�🌎
+ `<>Hello World!</>`
  <br>
-👩🏻  Pronouns: She/her;
+👩 Pronouns: She/her;
  <br>
- 🇧🇷  I'm 23 years old, I live in Sao Jose dos Campos, Sao Paulo, Brazil.
+ I'm 24 years old, I live in Sao Jose dos Campos, Sao Paulo, Brazil.
  <br>
- 🖥️ I currently I'm looking for a new job opportunity to improve my skills and help in the creation and maintain softwares. 
+ I currently I'm looking for a new job opportunity to improve my skills and help in the creation and maintain softwares. 
   
   
 <br>
