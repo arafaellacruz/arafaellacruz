@@ -14,7 +14,7 @@
  <br>
 👩 Pronouns: She/her;
  <br>
- I'm 24 years old, I live in Sao Jose dos Campos, Sao Paulo, Brazil.
+ I'm 24 years old, I live in São José dos Campos, São Paulo, Brazil.
  <br>
  I currently I'm looking for a new job opportunity to improve my skills and help in the creation and maintain softwares. 
   
