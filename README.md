@@ -16,7 +16,7 @@
  <br>
  I'm 24 years old, I live in São José dos Campos, São Paulo, Brazil.
  <br>
- I currently I'm looking for a new job opportunity to improve my skills and help in the creation and maintain softwares. 
+ I currently I'm working on Agenzia as a Software Developer. 
   
   
 <br>
