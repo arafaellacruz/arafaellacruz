@@ -1,36 +1,27 @@
-## Hey there! I'm Rafaella Cruz 
-
-<img align="right" width="300" height="300" src="https://github.com/rafaelq80/rafaelq80/blob/main/code.svg">
+## Hello there! I'm Rafaella Cruz 💻
 
 <br>
-<br>
-<br>
+
+ <div align="start">
+🌍 Based in São José dos Campos, São Paulo, Brazil.
+ <br/>
+🚀 I'm a 24-year-old Software Developer currently working at Agenzia.
+ <br/>
+🌟 Pronouns: She/her.
+ <br/>
+Feel free to explore my GitHub projects and connect with me to collaborate and share ideas! 
+ </div>
 <br>
 <br>
 
- `<>Hello World!</>`
- <br>
-👩 Pronouns: She/her;
- <br>
- I'm 24 years old, I live in São José dos Campos, São Paulo, Brazil.
- <br>
- I currently I'm working on Agenzia as a Software Developer. 
-  
-<br>
-<br>
-<br>
-<br>
-<br>
 
 <div align="center">
   <a href="https://github.com/rafacruzz">
 <!--   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rafacruzz&show_icons=true&theme=radical"/> -->
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafacruzz&layout=compact&langs_count=7&theme=radical"/>
 </div>
-  
- 
+
 <br>
-  
  
 <div align="center">
   <a href='https://github.com/rafacruzz?tab=repositories'><img align="center" alt="Ees-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
