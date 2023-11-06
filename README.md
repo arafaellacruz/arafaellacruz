@@ -16,11 +16,12 @@ Feel free to explore my GitHub projects and connect with me to collaborate and s
 
 
 <div align="center">
-  <a href="https://github.com/rafacruzz">
-<!--   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rafacruzz&show_icons=true&theme=radical"/> -->
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafacruzz&layout=compact&langs_count=7&theme=radical"/>
+  <a href="https://github.com/arafaellacruz">
+<!-- <img height="150em" src="https://github-readme-stats.vercel.app/api?username=arafaellacruz&show_icons=true&theme=radical"/> -->
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arafaellacruz&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
+<br>
 <br>
  
 <div align="center">
