@@ -11,9 +11,10 @@
  <br/>
 Feel free to explore my GitHub projects and connect with me to collaborate and share ideas! 
  </div>
-<br>
-<br>
 
+
+### Contagem de Visitantes:
+<img src="https://profile-counter.glitch.me/{arafaellacruz}/count.svg" alt="erfan visitor count" /></p>
 
 <div align="center">
   <a href="https://github.com/arafaellacruz">
@@ -47,3 +48,5 @@ Feel free to explore my GitHub projects and connect with me to collaborate and s
   <a href="mailto:rafaella.leticiaa@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%e84393?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/rafaella-cruz1999" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
+
+
