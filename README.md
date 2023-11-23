@@ -10,11 +10,13 @@
 🌟 Pronouns: She/her.
  <br/>
 Feel free to explore my GitHub projects and connect with me to collaborate and share ideas! 
+ <br/>
+ <br/>
  </div>
 
-
+<!--
 ### Contagem de Visitantes:
-<img src="https://profile-counter.glitch.me/{arafaellacruz}/count.svg" alt="erfan visitor count" /></p>
+<img src="https://profile-counter.glitch.me/{arafaellacruz}/count.svg" alt="erfan visitor count" /></p> -->
 
 <div align="center">
   <a href="https://github.com/arafaellacruz">
