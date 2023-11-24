@@ -25,7 +25,6 @@ Feel free to explore my GitHub projects and connect with me to collaborate and s
 </div>
 
 <br>
-<br>
  
 <div align="center">
  <img align="center" alt="Ees-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
