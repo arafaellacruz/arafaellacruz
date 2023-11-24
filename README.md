@@ -5,7 +5,7 @@
  <div align="start">
 🌍 Based in São José dos Campos, São Paulo, Brazil.
  <br/>
-🚀 I'm a 24-year-old Software Developer currently working at Agenzia.
+🚀 I'm a 24-year-old Software Developer currently working at Agenzia MKT.
  <br/>
 🌟 Pronouns: She/her.
  <br/>
