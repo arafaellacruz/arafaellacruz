@@ -5,6 +5,8 @@
  <div align="start">
 🌍 Based in São José dos Campos, São Paulo, Brazil.
  <br/>
+  🎓 Currently pursuing a degree in Database Management at FATEC.
+  <br/>
 🚀 I'm a 24-year-old Software Developer currently working at Agenzia MKT.
  <br/>
 🌟 Pronouns: She/her.
