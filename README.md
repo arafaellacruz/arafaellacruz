@@ -7,8 +7,8 @@
  <br/>
   🎓 Currently pursuing a degree in Database Management at FATEC.
   <br/>
-🚀 I'm a 24-year-old Software Developer currently working at Agenzia MKT.
- <br/>
+<!-- 🚀 I'm a 24-year-old Software Developer currently working at Agenzia MKT.
+ <br/> -->
 🌟 Pronouns: She/her.
  <br/>
 Feel free to explore my GitHub projects and connect with me to collaborate and share ideas! 
