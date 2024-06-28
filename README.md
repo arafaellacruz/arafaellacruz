@@ -24,13 +24,13 @@ Fique à vontade para explorar meus projetos do Github e se conectar para
 
 ## Estatísticas:
 <a href="https://github.com/arafaellacruz/github-readme-stats">
-    <img height="140" align="center" src="https://github-readme-stats.vercel.app/api?username=arafaellacruz&theme=synthwave" />
+    <img height="160" align="center" src="https://github-readme-stats.vercel.app/api?username=arafaellacruz&theme=synthwave" />
 </a>
 
 
       
 <a href="https://github.com/arafaellacruz/convoychat">
-    <img height="140" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arafaellacruz&layout=compact&theme=synthwave&langs_count=8&card_width=400" />
+    <img height="160" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arafaellacruz&layout=compact&theme=synthwave&langs_count=8&card_width=450" />
 </a>
 
 ## Contagem de Visitantes:
