@@ -2,9 +2,9 @@
 
 <img align="right" width="300" height="300" src="assets/myOctocat.png">
 
-🇺🇸 <a href="https://github.com/arafaellacruz/readme-en.md"> Readme en Inglés</a>
+🇺🇸  <a href="https://github.com/arafaellacruz/arafaellacruz/blob/main/readme-en.md">Readme in English</a>
 <br>
-🇪🇸 <a href="https://github.com/arafaellacruz/readme-en.md"> Readme en Español</a>
+🇪🇸  <a href="https://github.com/arafaellacruz/arafaellacruz/blob/main/readme-es.md"> Readme en Español</a>
 <br>
 🌟 Pronombres: Ella/ella
 <br>
