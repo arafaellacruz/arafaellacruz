@@ -4,7 +4,7 @@
 
 🇺🇸  <a href="https://github.com/arafaellacruz/readme-en.md"> Readme in English</a>
 <br>
-🇪🇸  <a href="https://github.com/arafaellacruz/readme-en.md"> Readme en Español</a>
+🇪🇸  <a href="https://github.com/arafaellacruz/readme-es.md"> Readme en Español</a>
 <br>
 🌟 Pronomes: Ela/dela
 <br>
