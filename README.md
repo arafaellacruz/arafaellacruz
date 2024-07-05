@@ -1,41 +1,33 @@
-# Olá! Eu sou Rafaella Cruz 💻
 
 <img align="right" width="300" height="300" src="assets/myOctocat.png">
 
-🇺🇸  <a href="https://github.com/arafaellacruz/arafaellacruz/blob/main/readme-en.md">Readme in English</a>
-<br>
-🇪🇸  <a href="https://github.com/arafaellacruz/arafaellacruz/blob/main/readme-es.md"> Readme en Español</a>
-<br>
-🌟 Pronomes: Ela/dela
-<br>
-🌍 São José dos Campos, São Paulo, Brazil
-<br>
-👩‍💼 Técnica em Administração pelo CEPHAS
-<br>
-💻 Formada como Pessoa Desenvolvedora WEB Full-Stack pela Generation Brazil
-<br>
-🎓 Atualmente cursando Banco de Dados na FATEC.
-<br> 
-<br> 
-Fique à vontade para explorar meus projetos do Github e se conectar para 
-<br> colaborar e compartilhar ideias!
+### 🇧🇷 
 
+<p align="justify">
+    Olá, meu nome é <b>Rafaella</b>, atualmente estou cursando o 2º semestre de Banco de Dados na <b>FATEC</b>, onde todos os semestres trabalhamos com a metodologia SCRUM, desenvolvendo soluções para empressas reais afim de aplicar os conhecimentos adquiridos durante o semestre, inclusive a aplicação das funções de desenvolvedores, Product Owner e Scrum Masters. 
+Tambem sou técnica em Administração pelo <b>CEPHAS</b> e Desenvolvedora WEB Full-Stack Junior pelo bootcamp de tecnologia da <b>Generation Brazil</b>.
 <br> 
+Fique à vontade para explorar meus projetos do Github e se conectar para colaborar e compartilhar ideias!
+</p>
 
-## Estatísticas:
-<a href="https://github.com/arafaellacruz/github-readme-stats">
+### 🇺🇸 
+<p align="justify">
+    Hello, my name is <b>Rafaella</b>. I am currently in my 2nd semester of Database studies at <b>FATEC</b>, where we work with the SCRUM methodology every semester, developing solutions for real companies to apply the knowledge acquired during the semester, including the application of developer roles, Product Owner, and Scrum Masters.
+    I am also a certified Technician in Administration from <b>CEPHAS</b> and a Junior Full-Stack Web Developer through the <b>Generation Brazil</b> technology bootcamp.
+    <br> 
+    Feel free to explore my GitHub projects and connect to collaborate and share ideas!
+</p>
+
+## 📊 Estatísticas:
+<div align="center">
+    <a href="https://github.com/arafaellacruz/github-readme-stats">
     <img height="160" align="center" src="https://github-readme-stats.vercel.app/api?username=arafaellacruz&theme=synthwave" />
 </a>
-
-
       
 <a href="https://github.com/arafaellacruz/convoychat">
     <img height="160" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arafaellacruz&layout=compact&theme=synthwave&langs_count=8&card_width=450" />
 </a>
-
-## Contagem de Visitantes:
-<img src="https://profile-counter.glitch.me/{arafaellacruz}/count.svg" alt="erfan visitor count" /></p>
-
+</div>
 
 ## 🛠️ Tecnologias
  
@@ -54,8 +46,6 @@ Fique à vontade para explorar meus projetos do Github e se conectar para
     <img alt="Docker" src="https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white"/>
 </div>
 
-## 📫 Contact
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cruz-rafaella/)
-
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&width=200%)
 
 
