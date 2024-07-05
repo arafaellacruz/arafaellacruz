@@ -1,13 +1,13 @@
 
-<img align="right" width="300" height="300" src="assets/myOctocat.png">
+<img align="right" width="350" height="350" src="assets/myOctocat.png">
 
 ### 🇧🇷 
 
 <p align="justify">
-    Olá, meu nome é <b>Rafaella</b>, atualmente estou cursando o 2º semestre de Banco de Dados na <b>FATEC</b>, onde todos os semestres trabalhamos com a metodologia SCRUM, desenvolvendo soluções para empressas reais afim de aplicar os conhecimentos adquiridos durante o semestre, inclusive a aplicação das funções de desenvolvedores, Product Owner e Scrum Masters. 
-Tambem sou técnica em Administração pelo <b>CEPHAS</b> e Desenvolvedora WEB Full-Stack Junior pelo bootcamp de tecnologia da <b>Generation Brazil</b>.
-<br> 
-Fique à vontade para explorar meus projetos do Github e se conectar para colaborar e compartilhar ideias!
+    Olá, meu nome é <b>Rafaella</b>. Atualmente estou cursando o 2º semestre de Banco de Dados na <b>FATEC</b>, onde todos os semestres trabalhamos com a metodologia SCRUM, desenvolvendo soluções para empresas reais, a fim de aplicar os conhecimentos adquiridos durante o semestre, incluindo a aplicação das funções de desenvolvedores, Product Owner e Scrum Masters. 
+    Também sou técnica em Administração pelo <b>CEPHAS</b> e Desenvolvedora WEB Full-Stack Júnior pelo bootcamp de tecnologia da <b>Generation Brazil</b>.
+    <br> 
+    Fique à vontade para explorar meus projetos no GitHub e se conectar para colaborar e compartilhar ideias!
 </p>
 
 ### 🇺🇸 
@@ -17,6 +17,7 @@ Fique à vontade para explorar meus projetos do Github e se conectar para colabo
     <br> 
     Feel free to explore my GitHub projects and connect to collaborate and share ideas!
 </p>
+
 
 ## 📊 Estatísticas:
 <div align="center">
@@ -32,7 +33,6 @@ Fique à vontade para explorar meus projetos do Github e se conectar para colabo
 ## 🛠️ Tecnologias
  
 <div align="center" width="200">
-    <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
     <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
     <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
     <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
