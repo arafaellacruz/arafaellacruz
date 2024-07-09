@@ -18,7 +18,7 @@
 </p>
 
 
-## 📊 Estatísticas:
+## 📊 Statistics:
 <div align="center">
     <a href="https://github.com/arafaellacruz/github-readme-stats">
     <img height="160" align="center" src="https://github-readme-stats.vercel.app/api?username=arafaellacruz&theme=synthwave" />
@@ -29,7 +29,7 @@
 </a>
 </div>
 
-## 🛠️ Tecnologias
+## 🛠️ Technologies
  
 <div align="center" width="200">
     <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
