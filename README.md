@@ -12,8 +12,7 @@
 ### 🇺🇸 
 <p align="justify">
     Hello, my name is <b>Rafaella</b>. I am currently in my 2nd semester of Database studies at <b>FATEC</b>, where we work with the SCRUM methodology every semester, developing solutions for real companies to apply the knowledge acquired during the semester, including the application of developer roles, Product Owner, and Scrum Masters.
-    I am also a certified Technician in Administration from <b>CEPHAS</b> and a Junior Full-Stack Web Developer through the <b>Generation Brazil</b> technology bootcamp.
-    <br> 
+    I am also a certified Technician in Administration from <b>CEPHAS</b> and a Junior Full-Stack Web Developer through the <b>Generation Brazil</b> technology bootcamp. 
     Feel free to explore my GitHub projects and connect to collaborate and share ideas!
 </p>
 
