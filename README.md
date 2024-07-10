@@ -5,7 +5,6 @@
 <p align="justify">
     Olá, meu nome é <b>Rafaella</b>. Atualmente estou cursando o 2º semestre de Banco de Dados na <b>FATEC</b>, onde todos os semestres trabalhamos com a metodologia SCRUM, desenvolvendo soluções para empresas reais, a fim de aplicar os conhecimentos adquiridos durante o semestre, incluindo a aplicação das funções de desenvolvedores, Product Owner e Scrum Masters. 
     Também sou técnica em Administração pelo <b>CEPHAS</b> e Desenvolvedora WEB Full-Stack Júnior pelo bootcamp de tecnologia da <b>Generation Brazil</b>.
-    <br> 
     Fique à vontade para explorar meus projetos no GitHub e se conectar para colaborar e compartilhar ideias!
 </p>
 
