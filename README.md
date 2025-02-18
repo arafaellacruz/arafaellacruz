@@ -1,4 +1,4 @@
-<img align="right" width="315" height="315" src="assets/myOctocat.png">
+<img align="right" width="400" height="400" src="assets/myOctocat.png">
 
 ### 🇧🇷 
 
