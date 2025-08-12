@@ -3,14 +3,14 @@
 ### 🇧🇷 
 
 <p align="justify">
-    Olá, meu nome é <b>Rafaella</b>. Atualmente estou cursando o 3º semestre de Banco de Dados na <b>FATEC</b>, onde todos os semestres trabalhamos com a metodologia SCRUM, desenvolvendo soluções para empresas reais, a fim de aplicar os conhecimentos adquiridos durante o semestre, incluindo a aplicação das funções de desenvolvedores, Product Owner e Scrum Masters. 
+    Olá, meu nome é <b>Rafaella</b>. Atualmente estou cursando o 4º semestre de Banco de Dados na <b>FATEC</b>, onde todos os semestres trabalhamos com a metodologia SCRUM, desenvolvendo soluções para empresas reais, a fim de aplicar os conhecimentos adquiridos durante o semestre, incluindo a aplicação das funções de desenvolvedores, Product Owner e Scrum Masters. 
     Também sou técnica em Administração pelo <b>CEPHAS</b> e Desenvolvedora WEB Full-Stack Júnior pelo bootcamp de tecnologia da <b>Generation Brazil</b>.
     Fique à vontade para explorar meus projetos no GitHub e se conectar para colaborar e compartilhar ideias!
 </p>
 
 ### 🇺🇸 
 <p align="justify">
-    Hello, my name is <b>Rafaella</b>. I am currently in my 3rd semester of Database studies at <b>FATEC</b>, where we work with the SCRUM methodology every semester, developing solutions for real companies to apply the knowledge acquired during the semester, including the application of developer roles, Product Owner, and Scrum Masters.
+    Hello, my name is <b>Rafaella</b>. I am currently in my 4th semester of Database studies at <b>FATEC</b>, where we work with the SCRUM methodology every semester, developing solutions for real companies to apply the knowledge acquired during the semester, including the application of developer roles, Product Owner, and Scrum Masters.
     I am also a certified Technician in Administration from <b>CEPHAS</b> and a Junior Full-Stack Web Developer through the <b>Generation Brazil</b> technology bootcamp. 
     Feel free to explore my GitHub projects and connect to collaborate and share ideas!
 </p>
