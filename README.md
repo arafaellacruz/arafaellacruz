@@ -18,6 +18,11 @@ I'm **Rafaella**, from São José dos Campos, Brazil. I'm a **Software Developer
 
 <img width="100%" src="assets/divider.svg"/>
 
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=arafaellacruz&show_icons=true&hide_border=true&include_all_commits=true&bg_color=06050b&title_color=ff2d87&icon_color=22d3ee&text_color=f5f1fa&ring_color=8b5cf6&locale=pt-br" />
+  <img height="170" src="https://streak-stats.demolab.com?user=arafaellacruz&hide_border=true&background=06050b&ring=8b5cf6&fire=ff2d87&currStreakNum=f5f1fa&sideNums=f5f1fa&currStreakLabel=ff2d87&sideLabels=d6cfe1&dates=9d95ab&stroke=2a1442&locale=pt_BR" />
+</div>
+
 ### `// o que sei fazer`
 
 <div align="center">
